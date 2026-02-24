@@ -1,0 +1,298 @@
+{
+  "churn_alerts": [
+    {
+      "customer_id": "CUST003",
+      "churn_probability": 0.982795774936676
+    },
+    {
+      "customer_id": "CUST010",
+      "churn_probability": 0.9845231771469116
+    },
+    {
+      "customer_id": "CUST028",
+      "churn_probability": 0.9897623658180237
+    },
+    {
+      "customer_id": "CUST036",
+      "churn_probability": 0.9907042384147644
+    },
+    {
+      "customer_id": "CUST041",
+      "churn_probability": 0.9914957284927368
+    },
+    {
+      "customer_id": "CUST043",
+      "churn_probability": 0.985672116279602
+    },
+    {
+      "customer_id": "CUST044",
+      "churn_probability": 0.985672116279602
+    },
+    {
+      "customer_id": "CUST046",
+      "churn_probability": 0.9835837483406067
+    },
+    {
+      "customer_id": "CUST047",
+      "churn_probability": 0.985672116279602
+    },
+    {
+      "customer_id": "CUST058",
+      "churn_probability": 0.985672116279602
+    },
+    {
+      "customer_id": "CUST062",
+      "churn_probability": 0.9914957284927368
+    },
+    {
+      "customer_id": "CUST065",
+      "churn_probability": 0.9896766543388367
+    },
+    {
+      "customer_id": "CUST067",
+      "churn_probability": 0.9914957284927368
+    },
+    {
+      "customer_id": "CUST080",
+      "churn_probability": 0.9898547530174255
+    },
+    {
+      "customer_id": "CUST090",
+      "churn_probability": 0.9825577139854431
+    }
+  ],
+  "reorder_alerts": [
+    {
+      "sku_id": "SKU013",
+      "forecast_month_1": 613.3577880859375,
+      "current_stock": 0,
+      "pressure_score": 613.3577880859375
+    },
+    {
+      "sku_id": "SKU022",
+      "forecast_month_1": 689.8179321289062,
+      "current_stock": 0,
+      "pressure_score": 689.8179321289062
+    },
+    {
+      "sku_id": "SKU024",
+      "forecast_month_1": 904.3448486328125,
+      "current_stock": 0,
+      "pressure_score": 904.3448486328125
+    },
+    {
+      "sku_id": "SKU025",
+      "forecast_month_1": 857.013427734375,
+      "current_stock": 0,
+      "pressure_score": 857.013427734375
+    },
+    {
+      "sku_id": "SKU026",
+      "forecast_month_1": 910.4146118164062,
+      "current_stock": 0,
+      "pressure_score": 910.4146118164062
+    },
+    {
+      "sku_id": "SKU029",
+      "forecast_month_1": 589.21875,
+      "current_stock": 0,
+      "pressure_score": 589.21875
+    },
+    {
+      "sku_id": "SKU036",
+      "forecast_month_1": 873.14892578125,
+      "current_stock": 0,
+      "pressure_score": 873.14892578125
+    },
+    {
+      "sku_id": "SKU047",
+      "forecast_month_1": 916.6766357421875,
+      "current_stock": 0,
+      "pressure_score": 916.6766357421875
+    },
+    {
+      "sku_id": "SKU048",
+      "forecast_month_1": 688.307373046875,
+      "current_stock": 0,
+      "pressure_score": 688.307373046875
+    },
+    {
+      "sku_id": "SKU049",
+      "forecast_month_1": 645.4903564453125,
+      "current_stock": 0,
+      "pressure_score": 645.4903564453125
+    }
+  ],
+  "cross_sell_alerts": [
+    {
+      "customer_id": "CUST003",
+      "recommended_skus": [
+        [
+          "SKU047",
+          916.6766357421875
+        ],
+        [
+          "SKU026",
+          910.4146118164062
+        ],
+        [
+          "SKU024",
+          904.3448486328125
+        ]
+      ]
+    },
+    {
+      "customer_id": "CUST010",
+      "recommended_skus": [
+        [
+          "SKU047",
+          916.6766357421875
+        ],
+        [
+          "SKU026",
+          910.4146118164062
+        ],
+        [
+          "SKU024",
+          904.3448486328125
+        ]
+      ]
+    },
+    {
+      "customer_id": "CUST028",
+      "recommended_skus": [
+        [
+          "SKU047",
+          916.6766357421875
+        ],
+        [
+          "SKU026",
+          910.4146118164062
+        ],
+        [
+          "SKU024",
+          904.3448486328125
+        ]
+      ]
+    },
+    {
+      "customer_id": "CUST036",
+      "recommended_skus": [
+        [
+          "SKU047",
+          916.6766357421875
+        ],
+        [
+          "SKU026",
+          910.4146118164062
+        ],
+        [
+          "SKU024",
+          904.3448486328125
+        ]
+      ]
+    },
+    {
+      "customer_id": "CUST041",
+      "recommended_skus": [
+        [
+          "SKU047",
+          916.6766357421875
+        ],
+        [
+          "SKU026",
+          910.4146118164062
+        ],
+        [
+          "SKU024",
+          904.3448486328125
+        ]
+      ]
+    },
+    {
+      "customer_id": "CUST043",
+      "recommended_skus": [
+        [
+          "SKU047",
+          916.6766357421875
+        ],
+        [
+          "SKU026",
+          910.4146118164062
+        ],
+        [
+          "SKU024",
+          904.3448486328125
+        ]
+      ]
+    },
+    {
+      "customer_id": "CUST044",
+      "recommended_skus": [
+        [
+          "SKU047",
+          916.6766357421875
+        ],
+        [
+          "SKU026",
+          910.4146118164062
+        ],
+        [
+          "SKU024",
+          904.3448486328125
+        ]
+      ]
+    },
+    {
+      "customer_id": "CUST046",
+      "recommended_skus": [
+        [
+          "SKU047",
+          916.6766357421875
+        ],
+        [
+          "SKU026",
+          910.4146118164062
+        ],
+        [
+          "SKU024",
+          904.3448486328125
+        ]
+      ]
+    },
+    {
+      "customer_id": "CUST047",
+      "recommended_skus": [
+        [
+          "SKU047",
+          916.6766357421875
+        ],
+        [
+          "SKU026",
+          910.4146118164062
+        ],
+        [
+          "SKU024",
+          904.3448486328125
+        ]
+      ]
+    },
+    {
+      "customer_id": "CUST058",
+      "recommended_skus": [
+        [
+          "SKU047",
+          916.6766357421875
+        ],
+        [
+          "SKU026",
+          910.4146118164062
+        ],
+        [
+          "SKU024",
+          904.3448486328125
+        ]
+      ]
+    }
+  ]
+}
